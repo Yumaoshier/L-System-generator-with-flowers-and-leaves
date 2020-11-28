@@ -1,0 +1,12 @@
+Prefabs/leaf_green:
+R=-30, 90, -87
+L=210, 90, 90
+
+Prefabs/leaf_yellow:
+R=-160, 0, 180
+L=-25, 180, 180
+
+Prefabs/flower_red:
+R=-60, 160, 0
+L=-120, 45, 100
+
